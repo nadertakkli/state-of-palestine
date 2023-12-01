@@ -74,7 +74,8 @@ layout: default
     display: flex;
     flex-direction: column;
     gap: var(--gap);
-    padding: var(--gap);
+    padding-block: var(--gap);
+    padding-inline: calc(var(--gap) + env(safe-area-inset-left, 0px));
     --gap: 2rem;
   }
   #intro {
