@@ -81,7 +81,7 @@ layout: default
     position: sticky;
     top: 0;
     display: flex;
-    flex-direciton: column;
+    flex-direction: column;
     gap: calc(var(--gap) / 2);
     padding-block: var(--gap);
     background: #ffffff;
