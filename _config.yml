@@ -22,7 +22,7 @@ title: State of Palestine
 author: Nader Takkli
 email: nadertakkli@gmail.com
 description: An attempt to brand the liberated, modern, sovereign, Arab State of Palestine. For free use and distribution.
-baseurl: "/state-of-palestine" # the subpath of your site, e.g. /blog
+baseurl: "state-of-palestine/" # the subpath of your site, e.g. /blog
 url: "https://nadertakkli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nadertakkli
 repository: nadertakkli/state-of-palestine
