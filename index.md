@@ -68,12 +68,13 @@ layout: default
     overflow-wrap: break-word;
     touch-action: manipulation;
   }
+  :root {
+    --gap: 2rem;
+  }
   body {
     display: flex;
     flex-direction: column;
-    gap: var(--gap);
     padding-inline: calc(var(--gap) + env(safe-area-inset-left, 0px));
-    --gap: 2rem;
   }
   body > * {
     padding-block: var(--gap);
