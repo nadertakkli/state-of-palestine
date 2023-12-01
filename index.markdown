@@ -2,14 +2,16 @@
 layout: default
 ---
 
-# State of Palestine
 
-{{ site.description }}
 
-<div id="cta">
-  <a href="{{ site.data.cta.link }}">
-    {{ site.data.cta.text }}
-  </a>
+<div id="intro">
+  <h1>State of Palestine</h1>
+  <p>{{ site.description }}</p>
+  <div id="cta">
+    <a href="{{ site.data.cta.link }}">
+      {{ site.data.cta.text }}
+    </a>
+  </div>
 </div>
 
 <div id="images">
@@ -75,7 +77,16 @@ layout: default
     padding: var(--gap);
     --gap: 2rem;
   }
-  h1 {
+  #intro {
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direciton: column;
+    gap: calc(var(--gap) / 2);
+    padding-block: var(--gap);
+    background: #ffffff;
+  }
+  #intro > h1 {
     font-size: 2rem;
     font-weight: bold;
     line-height: 1.0;
