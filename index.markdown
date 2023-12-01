@@ -92,10 +92,9 @@ layout: default
     font-weight: bold;
     line-height: 1.0;
   }
-  #cta {
-    margin-block: 0.3rem;
-  }
   #cta > a {
+    display: block;
+    width: fit-content;
     padding: calc(var(--gap) / 3);
     border-radius: 5px;
     background: #ffffff;
