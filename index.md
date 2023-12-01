@@ -38,7 +38,7 @@ layout: default
     line-height: 1.3;
     color: #000;
     scroll-behavior: smooth;
-    background: #fff;
+    background: #f8f8f8;
   }
   *,
   *::before,
@@ -87,7 +87,7 @@ layout: default
     gap: calc(var(--gap) / 2);
     padding-block: var(--gap);
     border-block-end: 1px solid #ddd;
-    background: #fff;
+    background: #f8f8f8;
   }
   #intro > h1 {
     font-size: 2rem;
@@ -99,14 +99,14 @@ layout: default
     width: fit-content;
     padding: calc(var(--gap) / 3);
     border-radius: 5px;
-    background: #fff;
+    background: #f8f8f8;
     color: #000;
     border: 1px solid #000;
   }
   @media (any-hover: hover) {
     #cta > a:hover {
       background: #000;
-      color: #fff;
+      color: #f8f8f8;
     }
   }
   #images {
