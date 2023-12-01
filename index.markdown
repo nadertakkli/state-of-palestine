@@ -127,9 +127,11 @@ layout: default
     flex-basis: calc((100% - ((var(--columns) - 1) * var(--gap))) / var(--columns));
   }
   #images > figure > img {
+    aspect-ratio: 1/1;
     display: block;
     width: 100%;
     height: auto;
+    object-fit: contain;
   }
   #images > figure > figcaption {
     margin-block-start: calc(var(--gap) / 3);
