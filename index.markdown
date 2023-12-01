@@ -7,7 +7,7 @@ layout: default
 {{ site.description }}
 
 <div id="cta">
-  <a href="/{{ site.baseurl }}{{ site.data.assets.path }}{{ site.data.cta.name }}">
+  <a href="{{ site.data.cta.link }}">
     {{ site.data.cta.text }}
   </a>
 </div>
