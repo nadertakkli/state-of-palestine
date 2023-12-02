@@ -1,44 +1,44 @@
-- name: Asset 1@1080x-50.jpg
-- name: Asset 2@1080x-50.jpg
-- name: Asset 3@1080x-50.jpg
-- name: Asset 4@1080x-50.jpg
-- name: Asset 5@1080x-50.jpg
-- name: Asset 6@1080x-50.jpg
-- name: Asset 7@1080x-50.jpg
-- name: Asset 8@1080x-50.jpg
-- name: Asset 9@1080x-50.jpg
-- name: Asset 10@1080x-50.jpg
-- name: Asset 15@1080x-50.jpg
-- name: Asset 16@1080x-50.jpg
-- name: Asset 17@1080x-50.jpg
-- name: Asset 18@1080x-50.jpg
-- name: Asset 19@1080x-50.jpg
-- name: Asset 20@1080x-50.jpg
-- name: Asset 21@1080x-50.jpg
-- name: Asset 22@1080x-50.jpg
-- name: Asset 23@1080x-50.jpg
-- name: Asset 31@1080x-50.jpg
-- name: Asset 32@1080x-50.jpg
-- name: Asset 33@1080x-50.jpg
-- name: Asset 34@1080x-50.jpg
-- name: Asset 35@1080x-50.jpg
-- name: Asset 36@1080x-50.jpg
-- name: Asset 37@1080x-50.jpg
-- name: Asset 38@1080x-50.jpg
-- name: Asset 39@1080x-50.jpg
-- name: Asset 40@1080x-50.jpg
-- name: Asset 41@1080x-50.jpg
-- name: Asset 49@1080x-50.jpg
-- name: Asset 50@1080x-50.jpg
-- name: Asset 51@1080x-50.jpg
-- name: Asset 52@1080x-50.jpg
-- name: Asset 53@1080x-50.jpg
-- name: Asset 54@1080x-50.jpg
-- name: Asset 55@1080x-50.jpg
-- name: Asset 58@1080x-50.jpg
-- name: Asset 59@1080x-50.jpg
-- name: Asset 60@1080x-50.jpg
-- name: Asset 61@1080x-50.jpg
-- name: Asset 62@1080x-50.jpg
-- name: Asset 63@1080x-50.jpg
-- name: Asset 64@1080x-50.jpg
+- name: "Stamp Wael@1080x-50.jpg"
+- name: "Stamp Dr Ghassan@1080x-50.jpg"
+- name: "Stamp Edward Said A@1080x-50.jpg"
+- name: "Stamp Edward Said B@1080x-50.jpg"
+- name: "Stamp Edward Said C@1080x-50.jpg"
+- name: "Stamp Plestia@1080x-50.jpg"
+- name: "Stamp Kurd@1080x-50.jpg"
+- name: "Stamp Church@1080x-50.jpg"
+- name: "Stamp Hisham Palace@1080x-50.jpg"
+- name: "Stamp Sunbird@1080x-50.jpg"
+- name: "Stamp Poppy@1080x-50.jpg"
+- name: "Post Office@1080x-50.jpg"
+- name: "Postmark Stamp@1080x-50.jpg"
+- name: "1 Pound Back@1080x-50.jpg"
+- name: "1 Pound Front@1080x-50.jpg"
+- name: "5 Pounds Front@1080x-50.jpg"
+- name: "5 Pounds Back@1080x-50.jpg"
+- name: "10 Pounds Back@1080x-50.jpg"
+- name: "10 Pounds Front@1080x-50.jpg"
+- name: "20 Pounds Front@1080x-50.jpg"
+- name: "20 Pounds Back@1080x-50.jpg"
+- name: "50 Pounds Front@1080x-50.jpg"
+- name: "50 Pounds Back@1080x-50.jpg"
+- name: "Ministry of Interior@1080x-50.jpg"
+- name: "Passport Cover B@1080x-50.jpg"
+- name: "Passport Cover A@1080x-50.jpg"
+- name: "Entry Stamp@1080x-50.jpg"
+- name: "Exit Stamp@1080x-50.jpg"
+- name: "Ministry of Foreign Affairs@1080x-50.jpg"
+- name: "Embassy and Consulate@1080x-50.jpg"
+- name: "Student Visa@1080x-50.jpg"
+- name: "Work Permit@1080x-50.jpg"
+- name: "Religious Visa@1080x-50.jpg"
+- name: "Tourist Visa@1080x-50.jpg"
+- name: "Ministry of Defense@1080x-50.jpg"
+- name: "Special Forces@1080x-50.jpg"
+- name: "Navy@1080x-50.jpg"
+- name: "Army@1080x-50.jpg"
+- name: "Air Force@1080x-50.jpg"
+- name: "Ministry of Culture - Nat Library@1080x-50.jpg"
+- name: "Palestine Airlines Logo@1080x-50.jpg"
+- name: "Aircraft A@1080x-50.jpg"
+- name: "Boarding Pass B@1080x-50.jpg"
+- name: "Boarding Pass A@1080x-50.jpg"
