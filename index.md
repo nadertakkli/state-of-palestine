@@ -6,7 +6,7 @@ layout: default
   <h1>State of Palestine</h1>
   <p>{{ site.description }}</p>
   <div id="cta">
-    <a href="{{ site.data.cta.link }}">
+    <a href="{{ site.data.cta.link }}" onClick="plausible('Download');">
       {{ site.data.cta.text }}
     </a>
   </div>
