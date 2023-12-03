@@ -11,6 +11,7 @@
 - name: "Stamp Poppy@1080x-50.jpg"
 - name: "Post Office@1080x-50.jpg"
 - name: "Postmark Stamp@1080x-50.jpg"
+
 - name: "1 Pound Back@1080x-50.jpg"
 - name: "1 Pound Front@1080x-50.jpg"
 - name: "5 Pounds Front@1080x-50.jpg"
@@ -21,24 +22,35 @@
 - name: "20 Pounds Back@1080x-50.jpg"
 - name: "50 Pounds Front@1080x-50.jpg"
 - name: "50 Pounds Back@1080x-50.jpg"
+
 - name: "Ministry of Interior@1080x-50.jpg"
 - name: "Passport Cover B@1080x-50.jpg"
 - name: "Passport Cover A@1080x-50.jpg"
+
+- name: "Passport Interior@1080x-50.jpg"
+- name: "Passport Left Page@1080x-50.jpg"
+- name: "Passport Right Page@1080x-50.jpg"
+
 - name: "Entry Stamp@1080x-50.jpg"
 - name: "Exit Stamp@1080x-50.jpg"
+
 - name: "Ministry of Foreign Affairs@1080x-50.jpg"
 - name: "Embassy and Consulate@1080x-50.jpg"
 - name: "Student Visa@1080x-50.jpg"
 - name: "Work Permit@1080x-50.jpg"
 - name: "Religious Visa@1080x-50.jpg"
 - name: "Tourist Visa@1080x-50.jpg"
+
 - name: "Ministry of Defense@1080x-50.jpg"
 - name: "Special Forces@1080x-50.jpg"
 - name: "Navy@1080x-50.jpg"
 - name: "Army@1080x-50.jpg"
 - name: "Air Force@1080x-50.jpg"
+
 - name: "Ministry of Culture - Nat Library@1080x-50.jpg"
+
 - name: "Palestine Airlines Logo@1080x-50.jpg"
 - name: "Aircraft A@1080x-50.jpg"
-- name: "Boarding Pass A@1080x-50.jpg"
 - name: "Boarding Pass B@1080x-50.jpg"
+- name: "Boarding Pass A@1080x-50.jpg"
+
