@@ -15,7 +15,7 @@ layout: default
 <div id="images">
   {% for image in site.data.images %}
     <figure>
-      <img src="/{{ site.baseurl }}{{ site.data.assets.path }}{{ image.name }}" loading="lazy" width="500" height="500" />
+      <img src="/{{ site.baseurl }}{{ site.data.assets.path }}{{ image.name }}" loading="lazy" width="1080" height="1080" />
       <figcaption>
         {{ image.name }}
       </figcaption>
