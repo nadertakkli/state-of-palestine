@@ -22,6 +22,7 @@
 - name: "20 Pounds Back@1080x-50.jpg"
 - name: "50 Pounds Front@1080x-50.jpg"
 - name: "50 Pounds Back@1080x-50.jpg"
+- name: "Central Bank@1080x-50.jpg"
 
 - name: "Ministry of Interior@1080x-50.jpg"
 - name: "Passport Cover B@1080x-50.jpg"
@@ -30,7 +31,7 @@
 - name: "Passport Left Page@1080x-50.jpg"
 - name: "Passport Right Page@1080x-50.jpg"
 - name: "Personal ID@1080x-50.jpg"
-- name: "Drivers License@1080x-50.jpg"
+- name: "Driver's License@1080x-50"
 
 - name: "Entry Stamp@1080x-50.jpg"
 - name: "Exit Stamp@1080x-50.jpg"
@@ -56,3 +57,7 @@
 - name: "Aircraft A@1080x-50.jpg"
 - name: "Boarding Pass B@1080x-50.jpg"
 - name: "Boarding Pass A@1080x-50.jpg"
+
+- name: "Palestine Rail C@1080x-50.jpg"
+- name: "Palestine Rail B@1080x-50.jpg"
+- name: "Palestine Rail A@1080x-50.jpg"
