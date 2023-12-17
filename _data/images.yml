@@ -62,6 +62,12 @@
 - name: "Palestine Rail C@1080x-50.jpg"
 - name: "Palestine Rail B@1080x-50.jpg"
 - name: "Palestine Rail A@1080x-50.jpg"
+- name: "Day Pass Back@1080x-50.jpg"
+- name: "Day Pass Front@1080x-50.jpg"
+- name: "Week Pass Back@1080x-50.jpg"
+- name: "Week Pass Front@1080x-50.jpg"
+- name: "Month Pass Back@1080x-50.jpg"
+- name: "Month Pass Front@1080x-50.jpg"
 
 - name: "Municipality of Al Khalil@1080x-50.jpg"
 - name: "Municipality of Al Quds@1080x-50.jpg"
@@ -78,3 +84,4 @@
 - name: "Ministry of Energy@1080x-50.jpg"
 - name: "Chamber of Industry@1080x-50.jpg"
 - name: "Chamber of Industry Compact@1080x-50.jpg"
+
